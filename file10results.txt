@@ -1,0 +1,13 @@
+Range:73
+Frequency of 79:1
+Frequency of 24:1
+Frequency of 73:1
+Frequency of 41:2
+Frequency of 38:1
+Frequency of 97:1
+Frequency of 81:1
+Frequency of 82:1
+Frequency of 87:1
+Mean of file10:64.3
+Median of file10:57.0
+Mode of file10:[41]
